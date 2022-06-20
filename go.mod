@@ -3,7 +3,7 @@ module github.com/botwayorg/git
 go 1.18
 
 require (
-	github.com/botwayorg/gh v0.0.1
+	github.com/botwayorg/gh v0.0.2
 	github.com/spf13/cobra v1.4.0
 )
 
